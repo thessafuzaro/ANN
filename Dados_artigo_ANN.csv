@@ -1,4 +1,4 @@
-No;Range (mesh);Mean size (µm);Collector dosage (Kg/TOF);Impeller speed (RPM);Recovery (%);Grade (%)
+No;Range ;Mean size ;Collector dosage;Impeller speed ;Recovery;Grade
 1;16-32;750;0.9;1200;98.18;68.44
 2;16-150;553;0.56;1200;92.71;65.36
 3;16-32;750;0.78;1200;96.74;65.58
